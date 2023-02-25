@@ -2,8 +2,9 @@
 EdgeFireSmoke is a new lightweight CNN architecture for wildfire detection.
 The source code and database are available at the following links:
 
-1) EdgeFireSmokeData: https://drive.google.com/drive/folders/1ut6aoctvMOe9GD7OIOERSUp2IKFAaYdl?usp=sharing 
-2) EdgeFireSmokeCNN: https://drive.google.com/drive/folders/1IHo3IkmQE75JxIuLiiPuw-ulnJ4AsbCe?usp=sharing
+1) https://sites.google.com/view/edgefiresmoke/home
+2) EdgeFireSmokeData: https://drive.google.com/drive/folders/1ut6aoctvMOe9GD7OIOERSUp2IKFAaYdl?usp=sharing 
+3) EdgeFireSmokeCNN: https://drive.google.com/drive/folders/1IHo3IkmQE75JxIuLiiPuw-ulnJ4AsbCe?usp=sharing
 
 Please cite our scientific paper: https://ieeexplore.ieee.org/document/9684982
 
