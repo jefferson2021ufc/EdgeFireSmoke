@@ -5,9 +5,9 @@ The source code and database are available at the following links:
 website: https://sites.google.com/view/edgefiresmoke/home
 
 Dataset 1: https://github.com/salmank255/smoke-detection                               
-Dataset 2: https://drive.google.com/drive/folders/1k23qNjH_nDxi6auUEgj6BXPiCutcxDYd
-Videos (raw data .mp4): https://drive.google.com/drive/folders/15brcuuMzCFDoDUXkVFDNZCNd1x-oc2T1
-EdgeFireSmoke application: https://drive.google.com/drive/folders/1B2QnASEhHrKBSU2pBoZUdwr1HWZ_Qj8v 
+Dataset 2: https://drive.google.com/drive/folders/1k23qNjH_nDxi6auUEgj6BXPiCutcxDYd                
+Videos (raw data .mp4): https://drive.google.com/drive/folders/15brcuuMzCFDoDUXkVFDNZCNd1x-oc2T1                     
+EdgeFireSmoke application: https://drive.google.com/drive/folders/1B2QnASEhHrKBSU2pBoZUdwr1HWZ_Qj8v            
 Read-me: https://drive.google.com/drive/folders/1ut6aoctvMOe9GD7OIOERSUp2IKFAaYdl
 
 Please cite our scientific paper: https://ieeexplore.ieee.org/document/9684982
